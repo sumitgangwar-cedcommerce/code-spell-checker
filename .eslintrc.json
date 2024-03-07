@@ -32,7 +32,7 @@
         "spellcheck"
     ],
     "rules": {
-        "spellcheck/spell-checker": [1,
+        "spellcheck/spell-checker": ["error",
        {
            "comments": true,
            "strings": true,
